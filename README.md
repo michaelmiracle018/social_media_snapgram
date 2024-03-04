@@ -1,0 +1,3 @@
+INSTALL DEPENDENCIES - npm i
+
+START APP npm run dev
